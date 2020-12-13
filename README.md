@@ -1,9 +1,11 @@
-#Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
-# Kickstarting with Excel
-
+# Kickstarter Campaign Analysis
+ 
+ Performing Data Analysis on Kickstarter compaign data to uncover trends.
+ 
 ## Overview of Project
-Getting 
+Kickstarter is one of the crowdfunding companies which helps to brings lot of creativity ideas/projects to life through the funds raised during the campaign.  Each campaign will have  a Launch Date and duration  and a goal amount. The goal amount should be met within duration of the campaign ,otherwise no funds are collected. Around 400K projects has been on the Kickstarter campaign each project will fall under one of many categories like films, technology, food-related , etc.
+
+We are focuing on analyzing the data which campaigns are successful and met the goals by Geogrpahic Regions.
 
 
 ### Purpose: 
