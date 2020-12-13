@@ -1,10 +1,14 @@
-# An Analysis of Kickstarter Campaigns
+#Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
 # Kickstarting with Excel
 
 ## Overview of Project
+Getting 
 
-### Purpose: Help Louise in taking better decisions when to start her kickstarter compaign for her play.
+
+### Purpose: 
+Help Louise in taking better decisions when to start her kickstarter compaign for her play.
+
 
 ## Analysis and Challenges
 
