@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
 
-### Purpose
+### Purpose: Help Louise in taking better decisions when to start her kickstarter compaign for her play.
 
 ## Analysis and Challenges
 
