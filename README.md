@@ -19,20 +19,31 @@ Following are the steps are been implemented to help analyze the data.
 1. Build interactive visualizations thats helps in visualizing the Outcomes by Category/Country and perform the Trend Analysis on the Goals.
 
 ### Analysis of Outcomes Based on Launch Date
-![OutcomesBasedOnLaunchDate](/resources/Theater_Outcomes_vs_Launch.png)\
+![OutcomesBasedOnLaunchDate](/resources/Theater_Outcomes_vs_Launch.png)
 
 * Theater campaigns are more successful that are launched during May to July months when compared to the other months
 * Same number of campaigns are failed during May to Aug.
-* Almost negligible amount number of campaigns has been cancelled
-
+* Zero Campaigns are been cancelled once started.
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
+
+*	Plays subcategory which are in range of less than 4999 and goals between 35000 to 45000  are most successful.
+* Any goals which are greater than 45000 has highest number of failures.
+* Goals which are less than 10000 has higher success rate.
 
 ### Challenges and Difficulties Encountered
-
+	Out of 400000 Projects that have gone through in the Kickstarter campaign, only 4000 projects are taken for analysis which is merely 1% of the data from the population.
+	Not sure the backers demographics, which campaigns have received from most funds from which regions
+	Scope of the analysis was limited to only some variables , not sure which other variables are affecting campaign's outcomes at this stage.
+	We cannot completely come to a solid conclusion based on the above analysis, need to perform some more Exploratory Data Analysis of the data.
+ 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Conclusions based on the Outcomes based on Launch Date?
+As mentioned earlier, we can derive below:
+** Theater campaigns are more successful that are launched during May to July months when compared to the other months.
+** Around the same number of compaigns are been failed during May to Aug.
 
 - What can you conclude about the Outcomes based on Goals?
 
