@@ -12,15 +12,14 @@ We are focuing on analyzing the data which campaigns are successful and met the 
 Help Louise in taking better decisions when to start her kickstarter compaign for her "Fever" play. Do some exploratory analysis and provide the outcomes of the exploratory analysis.
 
 ## Analysis and Challenges
-Following are the steps are been implemented to help analyze the data.
-  Gather the Sample Data related to Kickstarter information. Peformed Data Cleansing Activities like sorting, filtering unrelated data. calculated/derived some of the
-  columns like Category, Subcategory out the existing.Build interactive visualizations thats helps in visualizing the Outcomes by Category/Country and perform the Trend 
-  Analysis on the Goals.
+  Gather the Sample Data related to Kickstarter information. Peformed Data Cleansing Activities like sorting, filtering unwanted data, calculated/derived some of the
+  columns like Category, Subcategory out the existing data points.Build interactive visualizations thats helps in visualizing the Outcomes by Category/Country, 
+  perform the Trend Analysis on the Goals.
 
 ### Analysis of Outcomes Based on Launch Date
 ![OutcomesBasedOnLaunchDate](/resources/Theater_Outcomes_vs_Launch.png)
 
-* Theater campaigns are more successful that are launched during May to July months when compared to the other months
+* Based on the Visualization Theater campaigns are more successful that are launched during May to July months when compared to the other months
 * Jan, Feb , Mar and Aug are having around same percentage of success rates, Zero Campaigns are been cancelled once started.
 
 ### Analysis of Outcomes Based on Goals
