@@ -19,7 +19,7 @@ Following are the steps are been implemented to help analyze the data.
 1. Build interactive visualizations thats helps in visualizing the Outcomes by Category/Country and perform the Trend Analysis on the Goals.
 
 ### Analysis of Outcomes Based on Launch Date
-![OutcomesBasedOnLaunchDate](https://github.com/v2krishna/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+![OutcomesBasedOnLaunchDate](/resources/Theater_Outcomes_vs_Launch.png)
 ** Theater campaigns are more successful that are launched during May to July months when compared to the other months
 ** Same number of campaigns are failed during May to Aug.
 ** Almost negligible amount number of campaigns has been cancelled
