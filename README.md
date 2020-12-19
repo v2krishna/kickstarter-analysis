@@ -11,13 +11,12 @@ We are focuing on analyzing the data which campaigns are successful and met the 
 ### Purpose: 
 Help Louise in taking better decisions when to start her kickstarter compaign for her "Fever" play. Do some exploratory analysis and provide the outcomes of the exploratory analysis.
 
-
 ## Analysis and Challenges
 Following are the steps are been implemented to help analyze the data.
 1. Gather the Sample Data related to Kickstarter information.
 1. Data Cleansing Activities
 1. Data Wrangling, so we can categorize, into different buckets that can be helpful in extracting the meaningul informaiton.
-
+1. Build interactive visualizations thats helps in visualizing the Outcomes by Category/Country and perform the Trend Analysis on the Goals.
 
 ### Analysis of Outcomes Based on Launch Date
 
