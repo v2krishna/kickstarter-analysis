@@ -33,6 +33,9 @@ Following are the steps are been implemented to help analyze the data.
 * Goals which are less than 10000 has higher success rate.
 
 ### Challenges and Difficulties Encountered
+Data has to been cleansed and perform some transformations to peform some analysis.
+
+
 Out of 400000 Projects that have gone through in the Kickstarter campaign, only 4000 projects are taken for analysis which 
 is merely 1% of the data from the population.
 Not sure the backers demographics, which campaigns have received from most funds from which regions
@@ -41,10 +44,10 @@ We cannot completely come to a solid conclusion based on the above analysis, nee
  
 ## Results
 
-- Conclusions based on the Outcomes based on Launch Date?
+- Conclusions based on the Outcomes based on Launch Date?/
 As mentioned earlier, we can derive below:
-** Theater campaigns are more successful that are launched during May to July months when compared to the other months.
-** Around the same number of compaigns are been failed during May to Aug.
+  ** Theater campaigns are more successful that are launched during May to July months when compared to the other months.
+  ** Around the same number of compaigns are been failed during May to Aug.
 
 - What can you conclude about the Outcomes based on Goals?
 
