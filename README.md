@@ -53,7 +53,7 @@ for this we mmight little more information ,why these higher amount goals got su
    * Scope of the analysis was limited to only some variables, not sure which other variables are affecting campaign's outcomes at this stage.
    * Cannot completely come to a solid conclusion based on the above data analysis, need to perform some more Exploratory Data Analysis of the data.
 
-- <b>What are some other possible tables and/or graphs that we could create?<b> <br/>
+- <b>What are some other possible tables and/or graphs that we could create?</b> <br/>
    * Duration of each campaign by Category / Subcategory vs Outcomes., this will help us to understand how long each compaign was on and how many of the many successful with
      lesser duration.
    * Pledged vs Goal Comparision -- this visual, might helps us to identify each of the campaign how much has been pledged out which how many reached the goals.
