@@ -5,7 +5,7 @@
 ## Overview of Project
 Kickstarter is one of the crowdfunding companies that helps to brings lot of creativity ideas/projects to life through the funds raised during the campaign.  Each campaign will have  a Launch Date and duration  and a goal amount. The goal amount should be met within duration of the campaign, otherwise no funds are collected. Around 400K projects has been on the Kickstarter campaign. Different kinds are projects are campaigned which fall unders one of the many categories like films, technology, food-related , etc.
 
-We are focuing on analyzing the data which campaigns are successful and met the goals by Geogrpahic Regions for Theaters.
+We are focuing on analyzing the data which campaigns are successful and met the goals by Geogrpahic Regions for Theaters based on the outcomes ang goals.
 
 
 ### Purpose: 
@@ -29,19 +29,15 @@ Following are the steps are been implemented to help analyze the data.
 
 *	Plays subcategory which are in range of less than 4999 and goals between 35000 to 45000  are most successful.
 * Any goals which are greater than 45000 has highest number of failures.
-* Goals which are less than 10000 has higher success rate.
+* Goals which are less than 7000 has higher success rate.
 
 ### Challenges and Difficulties Encountered
-Data has to been cleansed and perform some transformations to peform some analysis.
-
-
-Out of 400000 Projects that have gone through in the Kickstarter campaign, only 4000 projects are taken for analysis which 
-is merely 1% of the data from the population.
-Not sure the backers demographics, which campaigns have received from most funds from which regions
-Scope of the analysis was limited to only some variables , not sure which other variables are affecting campaign's outcomes at this stage.
-We cannot completely come to a solid conclusion based on the above analysis, need to perform some more Exploratory Data Analysis of the data.
- 
-## Results
+    * Data has to been cleansed.
+    * Some variables have to derived from the existing data points.
+    * Convert the UnixTimestamp in more readily format.
+    * Had to derive the numerical data/Key Figures for performing the analysis. 
+    
+ ## Results
 
 - Conclusions based on the Outcomes based on Launch Date?</b>
   As mentioned earlier, we can derive below: </b>
@@ -50,8 +46,16 @@ We cannot completely come to a solid conclusion based on the above analysis, nee
 
 - What can you conclude about the Outcomes based on Goals? </b>
    * Goals which are less than 10000 has higher success rate.
-   * 
+   * Any goals which are greater than 45000 has highest number of failures.
 
 - What are some limitations of this dataset?
+   * Very limited sample has been provided to perform the analysis, around 1% data has been used.
+   * Backers Demographics is not available to arrive which campaign has received most funds from which region.
+   * Scope of the analysis was limited to only some variables , not sure which other variables are affecting campaign's outcomes at this stage.
+   * Cannot completely come to a solid conclusion based on the above data, need to perform some more Exploratory Data Analysis of the data.
 
 - What are some other possible tables and/or graphs that we could create?
+   * Duration of each campaign by Category / Subcategory vs Outcomes.
+   * Pledged vs Goal Comparision
+   * Backers Demographic vs Donations
+  
