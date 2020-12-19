@@ -33,10 +33,11 @@ Following are the steps are been implemented to help analyze the data.
 * Goals which are less than 10000 has higher success rate.
 
 ### Challenges and Difficulties Encountered
-	Out of 400000 Projects that have gone through in the Kickstarter campaign, only 4000 projects are taken for analysis which is merely 1% of the data from the population.
-	Not sure the backers demographics, which campaigns have received from most funds from which regions
-	Scope of the analysis was limited to only some variables , not sure which other variables are affecting campaign's outcomes at this stage.
-	We cannot completely come to a solid conclusion based on the above analysis, need to perform some more Exploratory Data Analysis of the data.
+Out of 400000 Projects that have gone through in the Kickstarter campaign, only 4000 projects are taken for analysis which 
+is merely 1% of the data from the population.
+Not sure the backers demographics, which campaigns have received from most funds from which regions
+Scope of the analysis was limited to only some variables , not sure which other variables are affecting campaign's outcomes at this stage.
+We cannot completely come to a solid conclusion based on the above analysis, need to perform some more Exploratory Data Analysis of the data.
  
 ## Results
 
