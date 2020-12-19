@@ -44,8 +44,9 @@ We cannot completely come to a solid conclusion based on the above analysis, nee
  
 ## Results
 
-- Conclusions based on the Outcomes based on Launch Date?/
-As mentioned earlier, we can derive below:
+- Conclusions based on the Outcomes based on Launch Date?
+ </b>
+  As mentioned earlier, we can derive below:
   ** Theater campaigns are more successful that are launched during May to July months when compared to the other months.
   ** Around the same number of compaigns are been failed during May to Aug.
 
