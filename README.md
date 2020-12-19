@@ -9,7 +9,7 @@ We are focuing on analyzing the data which campaigns are successful and met the 
 
 
 ### Purpose: 
-Help Louise in taking better decisions when to start her kickstarter compaign for her play.
+Help Louise in taking better decisions when to start her kickstarter compaign for her "Fever" play.
 
 
 ## Analysis and Challenges
