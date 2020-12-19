@@ -3,9 +3,9 @@
  Performing Data Analysis on Kickstarter compaign data to uncover trends.
  
 ## Overview of Project
-Kickstarter is one of the crowdfunding companies which helps to brings lot of creativity ideas/projects to life through the funds raised during the campaign.  Each campaign will have  a Launch Date and duration  and a goal amount. The goal amount should be met within duration of the campaign ,otherwise no funds are collected. Around 400K projects has been on the Kickstarter campaign each project will fall under one of many categories like films, technology, food-related , etc.
+Kickstarter is one of the crowdfunding companies that helps to brings lot of creativity ideas/projects to life through the funds raised during the campaign.  Each campaign will have  a Launch Date and duration  and a goal amount. The goal amount should be met within duration of the campaign, otherwise no funds are collected. Around 400K projects has been on the Kickstarter campaign. Different kinds are projects are campaigned which fall unders one of the many categories like films, technology, food-related , etc.
 
-We are focuing on analyzing the data which campaigns are successful and met the goals by Geogrpahic Regions.
+We are focuing on analyzing the data which campaigns are successful and met the goals by Geogrpahic Regions for Theaters.
 
 
 ### Purpose: 
