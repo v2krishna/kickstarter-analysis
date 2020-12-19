@@ -13,10 +13,9 @@ Help Louise in taking better decisions when to start her kickstarter compaign fo
 
 ## Analysis and Challenges
 Following are the steps are been implemented to help analyze the data.
-1. Gather the Sample Data related to Kickstarter information.
-1. Data Cleansing Activities
-1. Data Wrangling, so we can categorize, into different buckets that can be helpful in extracting the meaningul informaiton.
-1. Build interactive visualizations thats helps in visualizing the Outcomes by Category/Country and perform the Trend Analysis on the Goals.
+  Gather the Sample Data related to Kickstarter information. Peformed Data Cleansing Activities like sorting, filtering unrelated data. calculated/derived some of the
+  columns like Category, Subcategory out the existing.Build interactive visualizations thats helps in visualizing the Outcomes by Category/Country and perform the Trend 
+  Analysis on the Goals.
 
 ### Analysis of Outcomes Based on Launch Date
 ![OutcomesBasedOnLaunchDate](/resources/Theater_Outcomes_vs_Launch.png)
@@ -32,8 +31,8 @@ Following are the steps are been implemented to help analyze the data.
 * Goals which are less than 7000 has higher success rate.
 
 ### Challenges and Difficulties Encountered
-    * Data has to been cleansed.
-    * Some variables have to derived from the existing data points.
+  Data has been provided is not readily useful to perform the analysis, Data has to be cleansed, formatted, sorte, then had to derive the variables thats are been not
+  available points. Had to change the unix dateformats
     * Convert the UnixTimestamp in more readily format.
     * Had to derive the numerical data/Key Figures for performing the analysis. 
     
