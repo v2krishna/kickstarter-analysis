@@ -22,8 +22,7 @@ Following are the steps are been implemented to help analyze the data.
 ![OutcomesBasedOnLaunchDate](/resources/Theater_Outcomes_vs_Launch.png)
 
 * Theater campaigns are more successful that are launched during May to July months when compared to the other months
-* Same number of campaigns are failed during May to Aug.
-* Zero Campaigns are been cancelled once started.
+* Jan, Feb , Mar and Aug are having around same percentage of success rates, Zero Campaigns are been cancelled once started.
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
@@ -49,7 +48,9 @@ We cannot completely come to a solid conclusion based on the above analysis, nee
    * Theater campaigns are more successful that are launched during May to July months when compared to the other months.
    * Around the same number of compaigns are been failed during May to Aug.
 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals? </b>
+   * Goals which are less than 10000 has higher success rate.
+   * 
 
 - What are some limitations of this dataset?
 
